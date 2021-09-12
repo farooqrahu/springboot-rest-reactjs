@@ -1,0 +1,27 @@
+.list {
+  text-align: left;
+  max-width: 750px;
+  margin: auto;
+}
+
+.submit-form {
+  max-width: 300px;
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 300px;
+
+  margin: auto;
+}
+.sub-menu li {
+  font-size: 1em;
+  padding: .25em 1em;
+  line-height: 1em;
+}
+
+.sub-menu {
+  padding: 0;
+  max-height: 20.5em; /* 1.5 x 3 */
+  overflow-y: auto;
+}
